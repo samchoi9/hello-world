@@ -1,2 +1,5 @@
 # hello-world
-sam's first sample 
+
+Hi, this is Sam
+working in Git first time
+--end
